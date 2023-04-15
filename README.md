@@ -14,9 +14,9 @@ For detailed walkthrough, please view the source code in order from:
   
 ## Contributors
 
-- @Topheral - Data Extraction, Neural Networks, Data Resampling,
+- @Topheral - Data Visualization
 - @SyntaxaR - Logistic Regression
-- @EdwinTYQ - Data Visualization, Data Extraction
+- @EdwinTYQ - Data Extraction
 
 ## Problem Definition
 
