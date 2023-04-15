@@ -5,7 +5,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 
 
 1. [Data Extraction and EDA](https://github.com/Topheral/Dating-analysis/blob/main/Data%20Extraction%20and%20EDA.ipynb)
-2. [Data Visualization](https://github.com/nicklimmm/movie-analysis/blob/main/data-visualization.ipynb)
+2. [Data Visualization](https://github.com/Topheral/Dating-analysis/blob/main/Data%20Visualisation.ipynb)
 3. [Machine Learning (....) ](https://github.com/nicklimmm/movie-analysis/blob/main/data-resampling-and-splitting.ipynb)
 
   
