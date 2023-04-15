@@ -1,7 +1,10 @@
 # Welcome to dating-analysis repository
 
 ## About
-This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which explores the mystery behind finding a romantic patner, using a [dataset](https://www.kaggle.com/datasets/annavictoria/speed-dating-experiment) compiled by professors Ray Fisman and Sheena Iyengar from Columbia Business School. For detailed walkthrough, please view the source code in order from:
+This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which explores the mystery behind finding a romantic patner, using a [dataset](https://www.kaggle.com/datasets/annavictoria/speed-dating-experiment) compiled by professors Ray Fisman and Sheena Iyengar from Columbia Business School. 
+<br>
+
+For detailed walkthrough, please view the source code in order from:
 
 
 1. [Data Extraction and EDA](https://github.com/Topheral/Dating-analysis/blob/main/Data%20Extraction%20and%20EDA.ipynb)
@@ -40,6 +43,7 @@ On the other hand, we did learn a thing or two. To summarize:
 - Your impression of yourself is often wrong
 - There is no one trait that makes you likeable
 - Being likeable is important for securing that second date!
+<br>
 
 - Popularity and budget have low linear correlation value with ratings (watch out for bandwagons 🤣)
 - Popularity of the casts and crews have higher linear correlation value with ratings
