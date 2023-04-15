@@ -11,7 +11,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
   
 ## Contributors
 
-- @topheral - Data Extraction, Neural Networks, Data Resampling,
+- @Topheral - Data Extraction, Neural Networks, Data Resampling,
 - @ - Logistic Regression
 - @ - Data Visualization, Data Extraction
 
