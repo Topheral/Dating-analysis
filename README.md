@@ -65,6 +65,7 @@ On the other hand, we did learn a thing or two. To summarize:
 ## References
 
 - <https://www.kaggle.com/datasets/annavictoria/speed-dating-experiment>
+- <https://www.channelnewsasia.com/singapore/singapore-total-fertility-rate-population-births-ageing-parents-children-3301846>
 
 
 
