@@ -33,13 +33,13 @@ Although this was slightly disappointing, it looks like there still is no real a
 
 On the other hand, we did learn a thing or two. To summarize:
 
--Take your date out to the cliche dinner and a movie because both genders are likely to enjoy it
--Dating is tougher for men (perhaps women can be more selective?)
--More participants experienced unrequited love than those that found love -- so don't feel too bad
--People get their heartbroken regardless of their personal traits like attractiveness, so if you strike out, it's not you that is the problem
--Your impression of yourself is often wrong
--There is no one trait that makes you likeable
--Being likeable is important for securing that second date!
+- Take your date out to the cliche dinner and a movie because both genders are likely to enjoy it
+- Dating is tougher for men (perhaps women can be more selective?)
+- More participants experienced unrequited love than those that found love -- so don't feel too bad
+- People get their heartbroken regardless of their personal traits like attractiveness, so if you strike out, it's not you that is the problem
+- Your impression of yourself is often wrong
+- There is no one trait that makes you likeable
+- Being likeable is important for securing that second date!
 
 - Popularity and budget have low linear correlation value with ratings (watch out for bandwagons 🤣)
 - Popularity of the casts and crews have higher linear correlation value with ratings
