@@ -4,7 +4,7 @@
 This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which explores the mystery behind finding a romantic patner, using a [dataset](https://www.kaggle.com/datasets/annavictoria/speed-dating-experiment) compiled by professors Ray Fisman and Sheena Iyengar from Columbia Business School. For detailed walkthrough, please view the source code in order from:
 
 
-1. [Data Extraction](https://github.com/nicklimmm/movie-analysis/blob/main/data-extraction.ipynb)
+1. [Data Extraction and EDA](https://github.com/nicklimmm/movie-analysis/blob/main/data-extraction.ipynb)
 2. [Data Visualization](https://github.com/nicklimmm/movie-analysis/blob/main/data-visualization.ipynb)
 3. [Data Resampling and Splitting](https://github.com/nicklimmm/movie-analysis/blob/main/data-resampling-and-splitting.ipynb)
 4. [Logistic Regression](https://github.com/nicklimmm/movie-analysis/blob/main/logistic-regression.ipynb)
