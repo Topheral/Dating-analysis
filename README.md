@@ -37,12 +37,12 @@ In conlusion, it looks like there still is no real answers to the secret of love
 
 these are our conclusion:
 1. Since both genders are likely to enjoy the cliché dinner and movie date, one should take your date there to get a higher chance of getting a girlfriend/boyfriend.
-2. Men have it harder when it comes to dating as perhaps women can be pickier in their quest for love.
-3. From the data, there are more participants which had unrequited love than those who had found love. Hence, don't feel too bad if you got rejected :broken_heart:. This shows that the quest for love isn't a straight forward process and you need to try multiple times before finding the one. 
-4. People still got rejected regardless of their personality traits, such as attractiveness, so if you strike out, it's not you that is the problem but the other date partner.
-5. Your impression of yourself is often wrong
-6. There is no one trait that makes you likeable
-7. Being likeable is important in order to get a second date
+2. Men :male_sign: have it harder when it comes to dating as perhaps women:female_sign: can be pickier in their quest for love.
+3. From the data, there are more participants which had unrequited love than those who had found love. Hence, don't feel too bad if you got rejected.:grinning: This shows that the quest for love isn't a straight forward process and you need to try multiple times before finding the one. 
+4. People still got rejected :broken_heart: regardless of their personality traits, such as attractiveness, so if you strike out, it's not you that is the problem but the other date partner.
+5. Your impression of yourself is often wrong.:x:
+6. There is no one trait that makes you likeable.
+7. Being likeable is important in order to get a second date.
 
 
 <br>
