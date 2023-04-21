@@ -1,4 +1,4 @@
-# Welcome to dating-analysis repository
+# :yellow_heart::orange_heart::sparkling_heart::couple: Welcome to dating-analysis repository :couple::sparkling_heart::orange_heart::yellow_heart:
 
 ## About
 This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which explores the mystery behind finding a romantic patner, using the [Speed Dating Experiment Dataset](https://www.kaggle.com/datasets/annavictoria/speed-dating-experiment) compiled by professors Ray Fisman and Sheena Iyengar from Columbia Business School.
@@ -34,23 +34,18 @@ For detailed walkthrough, please view the source code in order from:
 
 Although this was slightly disappointing, it looks like there still is no real answers to the secret of love. It's not interests or hobbies, it's not attractiveness or intelligence or other traits. Really it's just how much someone likes you. Who would have thought?
 
-On the other hand, we did learn a thing or two. To summarize:
 
-- Take your date out to the cliche dinner and a movie because both genders are likely to enjoy it
-- Dating is tougher for men (perhaps women can be more selective?)
-- More participants experienced unrequited love than those that found love -- so don't feel too bad
-- People get their heartbroken regardless of their personal traits like attractiveness, so if you strike out, it's not you that is the problem
-- Your impression of yourself is often wrong
-- There is no one trait that makes you likeable
-- Being likeable is important for securing that second date!
+these are our conclusion:
+1. Since both genders are likely to enjoy the cliché dinner and movie date, one should take your date there to get a higher chance of getting a girlfriend/boyfriend.
+2. Men have it harder when it comes to dating as perhaps women can be pickier in their quest for love.
+3. From the data, there are more participants which had unrequited love than those who had found love. Hence, don't feel too bad if you got rejected :broken_heart:. This shows that the quest for love isn't a straight forward process and you need to try multiple times before finding the one. 
+4. People still got rejected regardless of their personality traits, such as attractiveness, so if you strike out, it's not you that is the problem but the other date partner.
+5. Your impression of yourself is often wrong
+6. There is no one trait that makes you likeable
+7. Being likeable is important in order to get a second date
+
+
 <br>
-
-- Popularity and budget have low linear correlation value with ratings (watch out for bandwagons 🤣)
-- Popularity of the casts and crews have higher linear correlation value with ratings
-- Resampling imbalanced data improved model performance especially on the minority class
-- Logistic Regression did not perform well with non-linearly correlated variables
-- Neural Networks along with SMOTEENN resampling method consistently did well in predicting good movies after 100 training attempts (around 72% accuracy, 70% recall)
-- Yes, it is possible to predict if a movie is good with acceptable amount of accuracy and recall
 
 ## What did we learn from this project?
 
