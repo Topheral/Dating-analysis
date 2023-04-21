@@ -7,7 +7,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 For detailed walkthrough, please view the source code in order from:
 
 
-1. [Data Extraction and EDA](https://github.com/Topheral/Dating-analysis/blob/main/Data%20Visualisation.ipynb)
+1. [Data Extraction and EDA](https://github.com/Topheral/Dating-analysis/blob/main/Data_Extraction_and_EDA.ipynb)
 2. [Data Visualization](https://github.com/Topheral/Dating-analysis/blob/main/Data%20Visualisation.ipynb)
 3. [Machine Learning (....) ](https://github.com/Topheral/Dating-analysis/blob/main/Machine_Learning.ipynb)
 
