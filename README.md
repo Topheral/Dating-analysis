@@ -32,7 +32,7 @@ For detailed walkthrough, please view the source code in order from:
 
 ## Conclusion
 
-Although this was slightly disappointing, it looks like there still is no real answers to the secret of love. It's not interests or hobbies, it's not attractiveness or intelligence or other traits. Really it's just how much someone likes you. Who would have thought?
+In conlusion, it looks like there still is no real answers to the secret of love. It's not a particular hobby or interest, it's not attractiveness, intelligence nor any other traits. Really it's just how much someone likes you. Eventhough our group can't give a definite answer on how to get a significant other, we can give some insights on how to increase your chances in succesful dates, which in turn will eventually lead to obtaining a girlfriend. 
 
 
 these are our conclusion:
