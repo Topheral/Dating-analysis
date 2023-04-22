@@ -32,10 +32,10 @@ For detailed walkthrough, please view the source code in order from:
 
 ## Conclusion
 
-In conlusion, it looks like there still is no real answers to the secret of love. It's not a particular hobby or interest, it's not attractiveness, intelligence nor any other traits. Really it's just how much someone likes you. Eventhough our group can't give a definite answer on how to get a significant other, we can give some insights on how to increase your chances in succesful dates, which in turn will eventually lead to obtaining a girlfriend. 
+In conlusion, it looks like there still is no real answers to the secret of love. It's not a particular hobby or interest, it's not attractiveness, intelligence nor any other traits. Really, it's just how much someone likes you. Eventhough our group can't give a step-by-step method on how to get a significant other, we can give some insights on how to increase your chances in succesful dates, which in turn will eventually lead to obtaining a girlfriend. 
 
 
-these are our conclusion:
+These are our conclusion:
 1. Since both genders are likely to enjoy the cliché dinner and movie date, one should take your date there to get a higher chance of getting a girlfriend/boyfriend.
 2. Men :male_sign: have it harder when it comes to dating as perhaps women:female_sign: can be pickier in their quest for love.
 3. From the data, there are more participants which had unrequited love than those who had found love. Hence, don't feel too bad if you got rejected.:grin: This shows that the quest for love isn't a straight forward process and you need to try multiple times before finding the one. 
@@ -52,10 +52,9 @@ these are our conclusion:
 - Handling imbalanced datasets using resampling methods and imblearn package
 - Neural Networks, Keras and Tensorflow
 - Logistic Regression from sklearn
-- API Usage
 - Other packages such as tqdm, json, requests
 - Collaborating using GitHub
-- Concepts about Precision, Recall, and F1 Score
+
 
 ## References
 
