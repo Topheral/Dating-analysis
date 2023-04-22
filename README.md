@@ -63,6 +63,7 @@ These are our conclusion:
 - <https://www.channelnewsasia.com/singapore/singapore-total-fertility-rate-population-births-ageing-parents-children-3301846>
 - <https://machinelearningmastery.com/building-a-regression-model-in-pytorch/>
 - <https://www.freecodecamp.org/news/how-to-build-your-first-neural-network-to-predict-house-prices-with-keras-f8db83049159/>
+- <https://scikit-learn.org/stable/modules/generated/sklearn.metrics.f1_score.html>
 
 
 
