@@ -26,9 +26,9 @@ For detailed walkthrough, please view the source code in order from:
 
 ## Models Used
 
-1. Logistic Regression
-2. Random Forest
-3. XGBoost
+1. Linear Regression
+2. Logistic Regression
+3. Neural Network Regression
 
 ## Conclusion
 
@@ -43,6 +43,7 @@ These are our conclusion:
 5. Your impression of yourself is often wrong.:x:
 6. There is no one trait that makes you likeable.
 7. Being likeable is important in order to get a second date.
+8. Whether logistic regression or neural network regression is better, ultimately it depends on the specific problem and data at hand.
 
 
 <br>
