@@ -49,10 +49,9 @@ These are our conclusion:
 
 ## What did we learn from this project?
 
-- Handling imbalanced datasets using resampling methods and imblearn package
-- Neural Networks, Keras and Tensorflow
 - Logistic Regression from sklearn
-- Other packages such as tqdm, json, requests
+- How to load data from scikit-learn and adapt it for PyTorch models
+- How to create a neural network for regerssion problem using PyTorch
 - Collaborating using GitHub
 
 
