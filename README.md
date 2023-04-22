@@ -50,6 +50,7 @@ These are our conclusion:
 ## What did we learn from this project?
 
 - Logistic Regression from sklearn
+- F1 score
 - How to load data from scikit-learn and adapt it for PyTorch models
 - How to create a neural network for regerssion problem using PyTorch
 - Collaborating using GitHub
