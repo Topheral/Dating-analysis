@@ -62,6 +62,7 @@ These are our conclusion:
 - <https://www.kaggle.com/datasets/annavictoria/speed-dating-experiment>
 - <https://www.channelnewsasia.com/singapore/singapore-total-fertility-rate-population-births-ageing-parents-children-3301846>
 - <https://machinelearningmastery.com/building-a-regression-model-in-pytorch/>
+- <https://www.freecodecamp.org/news/how-to-build-your-first-neural-network-to-predict-house-prices-with-keras-f8db83049159/>
 
 
 
