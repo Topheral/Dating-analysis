@@ -42,7 +42,7 @@ These are our conclusion:
 4. People still got rejected :broken_heart: regardless of their personality traits, such as attractiveness, so if you strike out, it's not you that is the problem but the other date partner.
 5. Your impression of yourself is often wrong.:x:
 6. There is no one trait that makes you likeable.
-7. Being likeable is important in order to get a second date.
+7. Being likeable is crucial in securing a second date.
 8. Whether logistic regression or neural network regression is better, ultimately it depends on the specific problem and data at hand.
 
 
