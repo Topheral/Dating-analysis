@@ -54,6 +54,7 @@ These are our conclusion:
 - F1 score
 - How to load data from scikit-learn and adapt it for PyTorch models
 - How to create a neural network for regerssion problem using PyTorch
+- The pros & cons for logistical model and neural networks
 - Collaborating using GitHub
 
 
